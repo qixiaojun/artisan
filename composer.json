@@ -1,0 +1,11 @@
+{
+    "name": "qixiaojun/artisan",
+    "description": "hans artisan",
+    "authors": [
+        {
+            "name": "齐小君",
+            "email": "353484007@qq.com"
+        }
+    ],
+    "require": {}
+}
