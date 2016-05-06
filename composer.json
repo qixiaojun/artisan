@@ -1,11 +1,14 @@
 {
     "name": "qixiaojun/artisan",
     "description": "hans artisan",
+    "type": "?",
+    "license": "mit",
     "authors": [
         {
             "name": "齐小君",
             "email": "353484007@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
